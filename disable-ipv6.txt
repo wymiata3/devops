@@ -9,3 +9,5 @@ net.ipv6.conf.default.disable_ipv6 = 1
 
 2. To make the settings affective, execute :
 # sysctl -p
+
+https://www.thegeekdiary.com/centos-rhel-7-how-to-disable-ipv6/
